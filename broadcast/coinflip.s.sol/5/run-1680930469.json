@@ -1,0 +1,36 @@
+{
+  "transactions": [
+    {
+      "hash": "0xb8708c215bec9f508bfe427e7f8331c22cc2f108d8382d72a7884e08c078a1c3",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x9a8fAa45b7c64B1f9DE45DF20be381529258D0fD",
+      "function": null,
+      "arguments": null,
+      "rpc": "https://eth-goerli.g.alchemy.com/v2/z1IFdYsIK9IWoKu9o68vYQV7uoCf9fT3",
+      "transaction": {
+        "type": "0x02",
+        "from": "0xb1bfb47518e59ad7568f3b6b0a71733a41fc99ad",
+        "to": "0x9a8faa45b7c64b1f9de45df20be381529258d0fd",
+        "gas": "0x1857f",
+        "value": "0x0",
+        "data": "0x1d263f670000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xd6",
+        "accessList": []
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    }
+  ],
+  "receipts": [],
+  "libraries": [],
+  "pending": [
+    "0xb8708c215bec9f508bfe427e7f8331c22cc2f108d8382d72a7884e08c078a1c3"
+  ],
+  "path": "/Users/chloe/Learning0323/ethernaut/broadcast/coinflip.s.sol/5/run-latest.json",
+  "returns": {},
+  "timestamp": 1680930469,
+  "chain": 5,
+  "multi": false,
+  "commit": "85e45ea"
+}

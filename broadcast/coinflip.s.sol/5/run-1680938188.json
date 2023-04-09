@@ -1,0 +1,51 @@
+{
+  "transactions": [
+    {
+      "hash": "0xff68ec5bbc57ff8689a544527ef12647ee3896d83b5762b5b853bf8d422e8cd6",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x9a8fAa45b7c64B1f9DE45DF20be381529258D0fD",
+      "function": null,
+      "arguments": null,
+      "rpc": "https://eth-goerli.g.alchemy.com/v2/z1IFdYsIK9IWoKu9o68vYQV7uoCf9fT3",
+      "transaction": {
+        "type": "0x02",
+        "from": "0xb1bfb47518e59ad7568f3b6b0a71733a41fc99ad",
+        "to": "0x9a8faa45b7c64b1f9de45df20be381529258d0fd",
+        "gas": "0x11398",
+        "value": "0x0",
+        "data": "0x1d263f670000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xee",
+        "accessList": []
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    }
+  ],
+  "receipts": [
+    {
+      "transactionHash": "0xff68ec5bbc57ff8689a544527ef12647ee3896d83b5762b5b853bf8d422e8cd6",
+      "transactionIndex": "0x33",
+      "blockHash": "0x386a7eccb44f2c3af19d8cf32f63447e08e2b31aa148811f478b61fb1460e78e",
+      "blockNumber": "0x862f4e",
+      "from": "0xb1BfB47518E59Ad7568F3b6b0a71733A41fC99ad",
+      "to": "0x9a8fAa45b7c64B1f9DE45DF20be381529258D0fD",
+      "cumulativeGasUsed": "0x57ac70",
+      "gasUsed": "0x796c",
+      "contractAddress": null,
+      "logs": [],
+      "status": "0x1",
+      "logsBloom": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "type": "0x2",
+      "effectiveGasPrice": "0x3656a65e73"
+    }
+  ],
+  "libraries": [],
+  "pending": [],
+  "path": "/Users/chloe/Learning0323/ethernaut/broadcast/coinflip.s.sol/5/run-latest.json",
+  "returns": {},
+  "timestamp": 1680938188,
+  "chain": 5,
+  "multi": false,
+  "commit": "85e45ea"
+}
